@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Point Consultancy</string>
+    <!-- Errors message-->
+    <string name="error_network">Network Error: please check your internet connection</string>
+    <string name="error_timeout">Timeout Error: please change your internet connection</string>
+    <string name="error_server">Incomplete: Please complete your Survey</string>
+    <string name="error_other">Error: please connect with Survey or try again later</string>
+    <string name="error_host">Error: Unfortunately server error!</string>
+    <!-- login screen -->
+    <string name="password_hint">Password</string>
+    <string name="email_hint">Email</string>
+    <string name="forget_password">Forget Password?</string>
+    <string name="login_button">Sign In</string>
+
+    <!-- Forgot password screen -->
+    <string name="forgot_email_hint">Email</string>
+    <string name="send_password">Send Password</string>
+
+    <!-- Forgot password screen -->
+    <string name="survey_list_title">Select Default Survey</string>
+    <string name="survey_submit">Submit</string>
+
+    <!-- Aditional option screen -->
+    <string name="aditional_option_title">Select an option</string>
+    <string name="aditional_password_setting">Password on settings</string>
+    <string name="aditional_gps_summery">GPS with each Survey</string>
+    <string name="aditional_btn_done">Done</string>
+
+    <!-- Setting password screen -->
+    <string name="setting_password_title">Enter password for setting page</string>
+    <string name="setting_password_password">Enter Password</string>
+    <string name="setting_password_repassword">Re-Enter Password</string>
+    <string name="setting_password_btnok">OK</string>
+
+    <!-- home screen -->
+    <string name="home_btn_start">Start</string>
+
+    <!-- Questions screen -->
+    <string name="question_BTN_back">Back</string>
+    <string name="question_BTN_next">Next</string>
+
+    <!-- progress bar -->
+    <string name="progress_txt">Please wait...</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <!--alert dialog -->
+    <string name="gps_network_not_enabled">Location: Location not enabled</string>
+    <string name="open_location_settings">Enable</string>
+    <string name="Cancel">Cancel</string>
+
+</resources>
